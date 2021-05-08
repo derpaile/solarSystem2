@@ -1,6 +1,6 @@
 var h = 1080;
 var w = 1920;
-var scl = 1.5;
+var scl = 1;
 
 var sun;
 var planet;
